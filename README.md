@@ -31,8 +31,8 @@ List of sample id and files associated to it.
 Example: 
 |   id           |file                          |                    
 |----------------|-------------------------------|
-|id1 |read1_fastq |
-|id1 |read2_fastq |
+|id1 |read1.fastq |
+|id1 |read2.fastq |
 |id2 |read.bam|
 
 
