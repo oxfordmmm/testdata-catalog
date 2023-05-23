@@ -13,18 +13,18 @@ Mycobacterium_malmoense_ATCC_29571,Reference,,16/05/2023 00:00:00,,,,,,NTM,N/A,M
 Mycobacterium_tuberculosis_H37Rv,Reference,,16/05/2023 00:00:00,,,,,,MTBC,Mycobacterium_tuberculosis_complex,Mycobacterium_tuberculosis,N/A,H37Rv,ASM19595v2,,Full,Full,1,1,4411532,,K Malone,
 Mycobaterium_chelonae_chelonae_CCUG_47445,Reference,,16/05/2023 00:00:00,,,,,,NTM,Mycobacterium_chelonae_complex,Mycobaterium_chelonae,chelonae,CCUG_47445,ASM163280v1,,Full,Full,1,1,5029817,,K Malone,
 Mycobacterium_orygis_51145,Reference,,16/05/2023 00:00:00,,,,,,MTBC,Mycobacterium_tuberculosis_complex,Mycobacterium_orygis,N/A,51145,ASM1526549v2,,Full,Full,1,1,4352140,,K Malone,
-Mycobacterium_abscessus_abscessus_ATCC_19977_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_abscessus_complex,Mycobacterium_abscessus,abscessus,,,,,,,,,,,
-Mycobacterium_abscessus_bolletii_CIP108541_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_abscessus_complex,Mycobacterium_abscessus,bolletii,,,,,,,,,,,
-Mycobacterium_avium_avium_DSM44156_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_avium_complex,Mycobacterium_avium,avium,,,,,,,,,,,
-Mycobacterium_avium_hominissius_OCU889s_P11_4s_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_avium_complex,Mycobacterium_avium,hominissius,,,,,,,,,,,
-Mycobacterium_avium_paratuberculosis_K10_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_avium_complex,Mycobacterium_avium,paratuberculosis,,,,,,,,,,,
-Mycobacterium_bovis_AF2122_97_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,N/A,,,,,,,,,,,
-Mycobacterium_bovis_BCG_Pasteur_1173P2_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,BCG_Pasteur,,,,,,,,,,,
-Mycobacterium_cannetii_CIPT_140010059_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_cannetii,N/A,,,,,,,,,,,
-Mycobacterium_fortuitum_fortuitum_JCM_6387_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_fortuitum_complex,Mycobacterium_fortuitum,fortuitum,,,,,,,,,,,
-Mycobacterium_orygis_51145_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_orygis,N/A,,,,,,,,,,,
-Mycobacterium_tuberculosis_H37Rv_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_tuberculosis,N/A,,,,,,,,,,,
-Mycobaterium_chelonae_chelonae_CCUG_47445_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_chelonae_complex,Mycobaterium_chelonae,chelonae,,,,,,,,,,,
+Mycobacterium_abscessus_abscessus_ATCC_19977_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_abscessus_complex,Mycobacterium_abscessus,abscessus,,,,,,,,,,M Bird,
+Mycobacterium_abscessus_bolletii_CIP108541_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_abscessus_complex,Mycobacterium_abscessus,bolletii,,,,,,,,,,M Bird,
+Mycobacterium_avium_avium_DSM44156_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_avium_complex,Mycobacterium_avium,avium,,,,,,,,,,M Bird,
+Mycobacterium_avium_hominissius_OCU889s_P11_4s_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_avium_complex,Mycobacterium_avium,hominissius,,,,,,,,,,M Bird,
+Mycobacterium_avium_paratuberculosis_K10_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_avium_complex,Mycobacterium_avium,paratuberculosis,,,,,,,,,,M Bird,
+Mycobacterium_bovis_AF2122_97_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,N/A,,,,,,,,,,M Bird,
+Mycobacterium_bovis_BCG_Pasteur_1173P2_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,BCG_Pasteur,,,,,,,,,,M Bird,
+Mycobacterium_cannetii_CIPT_140010059_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_cannetii,N/A,,,,,,,,,,M Bird,
+Mycobacterium_fortuitum_fortuitum_JCM_6387_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_fortuitum_complex,Mycobacterium_fortuitum,fortuitum,,,,,,,,,,M Bird,
+Mycobacterium_orygis_51145_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_orygis,N/A,,,,,,,,,,M Bird,
+Mycobacterium_tuberculosis_H37Rv_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_tuberculosis,N/A,,,,,,,,,,M Bird,
+Mycobaterium_chelonae_chelonae_CCUG_47445_e0_r150_2023_05_16_14_30_45_,Synthetic,,16/05/2023 00:00:00,Illumina,,150,0,0,,Mycobacterium_chelonae_complex,Mycobaterium_chelonae,chelonae,,,,,,,,,,M Bird,
 Rhodococcus_erythropolis_R138,Reference,,2023-05-22 16:11:19,,,,,,contam,,Rhodococcus_erythropolis,N/A,R138,ASM69667v2,2,Full,Full,1,1,6806506,,K Malone,
 Staphylococcus_aureus_NCTC_8325,Reference,,2023-05-22 16:11:19,,,,,,contam,,Staphylococcus_aureus,N/A,NCTC_8325,ASM1342v1,1,Full,Full,1,1,2821361,,K Malone,
 Lautropia_mirabilis_NCTC12852,Reference,,2023-05-22 16:11:19,,,,,,contam,,Lautropia_mirabilis,N/A,NCTC12852,51726_E01,1,Full,Full,1,1,3172010,,K Malone,
@@ -39,3 +39,55 @@ Streptococcus_parasanguinis_ATCC_15912,Reference,,2023-05-22 16:11:19,,,,,,conta
 Streptococcus_salivarius_NCTC_8618,Reference,,2023-05-22 16:11:19,,,,,,contam,,Streptococcus_salivarius_,N/A,NCTC_8618,ASM78551v1,1,Full,Full,1,1,2188923,,K Malone,
 Neisseria_meningitidis_11_7,Reference,,2023-05-22 16:11:19,,,,,,contam,,Neisseria_meningitidis,N/A,11_7,ASM833080v1,1,Full,Scaffold,1,1,2157444,,K Malone,
 Streptococcus_pneumoniae_Hu17,Reference,,2023-05-22 16:11:19,,,,,,contam,,Streptococcus_pneumoniae_,N/A,Hu17,ASM207683v1,1,Full,Full,1,1,2148350,,K Malone,
+Mycobacterium_gordonae_DSM_44160,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_gordonae,N/A,X7091,ASM1708640v1,1,Full,Full,1,1,7319570,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_microti_ATCC_19422,Reference,,2023-05-22 14:42:57,,,,,,MTBC,Mycobacterium_tuberculosis_complex,Mycobacterium_microti,N/A,12,ASM154481v1,1,Full,Full,1,1,4241659,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_colombiense_CECT_3035,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_colombiense,N/A,CECT_3035,ASM210575v1,1,Full,Full,1,1,5581643,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_gallinarum_JCM_6399,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_gallinarum,N/A,JCM_6399,ASM1072676v1,1,Full,Full,1,1,6301681,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_kubicae_JCM_13573,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_kubicae,N/A,JCM_13573,ASM1568917v1,1,Full,Full,1,1,6016837,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_lentiflavum_ATCC_51985,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_lentiflavum,N/A,ATCC_51985,ASM2237489v2,2,Full,Full,1,1,6163560,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_lepraemurium_Hawaii,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_lepraemurium,N/A,Hawaii,ASM229146v1,1,Full,Full,1,1,4050523,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_tuberculosis_africanum_GM041182,Reference,,2023-05-22 14:42:57,,,,,,NTM,Mycobacterium_tuberculosis_complex,Mycobacterium_tuberculosis,africanum,GM041182,ASM25335v1,1,Full,Full,1,1,4389314,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_bovis_BCG_Russia_368,Reference,,2023-05-22 14:42:57,,,,,,MTBC,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,BCG_Russia,368,ASM127455v1,1,Full,Full,1,1,4370138,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_bovis_BCG_Sofia_BCG_SL_222,Reference,,2023-05-22 14:42:57,,,,,,MTBC,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,BCG_Sofia,_SL_222,ASM1548280v1,1,Full,Full,1,1,4370706,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_bovis_BCG_Moreau_PL,Reference,,2023-05-22 14:42:57,,,,,,MTBC,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,BCG_Moreau,PL,ASM2875223v1,1,Full,Full,1,1,4333979,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_bovis_BCG_Tice_63839,Reference,,2023-05-22 14:42:57,,,,,,MTBC,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,BCG_Tice,63839,ASM19407v3,3,Full,Full,1,1,4334064,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_bovis_BCG_Korea_1168P,Reference,,2023-05-22 14:42:57,,,,,,MTBC,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,BCG_Korea,1168P,ASM33871v2,1,Full,Full,1,1,4376711,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_bovis_BCG_Mexico,Reference,,2023-05-22 14:42:57,,,,,,MTBC,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,BCG_Mexico,Mexico,ASM23472v1,1,Full,Full,1,1,4350386,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_bovis_BCG_Tokyo_172,Reference,,2023-05-22 14:42:57,,,,,,MTBC,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,BCG_Tokyo,172,ASM158038v1,1,Full,Full,1,1,4371707,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_xenopi_JCM_15661T,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_xenopi,N/A,JCM_15661T,ASM993623v1,1,Full,Full,1,1,4917655,,K Malone,NCBI_refseq_search_20230518
+Mycobacterium_vicinigordonae_24,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_vicinigordonae,N/A,24,ASM1346642v1,1,Full,Full,1,1,6266765,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_paragordonae_49061,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_paragordonae,N/A,49061,ASM361443v1,1,Full,Full,1,1,7224251,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_haemophilum_ATCC_29548,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_haemophilum,N/A,ATCC_29548,ASM34043v3,3,Full,Full,1,1,4235765,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_grossiae_DSM_104744,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_grossiae,N/A,DSM_104744,ASM832964v1,1,Full,Full,1,1,5681602,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_paraterrae_DSM_45127,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_paraterrae,N/A,DSM_45127,ASM2243054v2,2,Full,Full,1,1,5522624,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_marinum_E11_E11,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_marinum,N/A,E11,E11,2,Full,Full,1,1,6450522,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_intracellulare_FDAARGOS_1564,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_intracellulare,N/A,FDAARGOS_1564,ASM2073600v1,1,Full,Full,1,1,5645778,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_ostraviense_FDAARGOS_1613,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_ostraviense,N/A,FDAARGOS_1613,ASM2118372v1,1,Full,Full,1,1,6127734,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_lepromatosis_FJ924,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_lepromatosis,N/A,FJ924,ASM97526v2,2,Full,Full,1,1,3271694,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_marseillense_FLAC0026,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_marseillense,N/A,FLAC0026,ASM228571v1,1,Full,Full,1,1,5285642,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_spongiae_FSD4b-SM,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_spongiae,N/A,FSD4b-SM,ASM1827890v1,1,Full,Full,1,1,5581157,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_simiae_JCM_12377,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_simiae,N/A,JCM_12377,ASM1072760v1,1,Full,Full,1,1,5788994,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_cookii_JCM_12404,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_cookii,N/A,JCM_12404,ASM1072794v1,1,Full,Full,1,1,5318517,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_shottsii_JCM_12657,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_shottsii,N/A,JCM_12657,ASM1072852v1,1,Full,Full,1,1,5973149,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_branderi_JCM_12687,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_branderi,N/A,JCM_12687,ASM1072872v1,1,Full,Full,1,1,5979623,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_saskatchewanense_JCM_13016,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_saskatchewanense,N/A,JCM_13016,ASM1072910v1,1,Full,Full,1,1,6008916,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_shinjukuense_JCM_14233,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_shinjukuense,N/A,JCM_14233,ASM1073005v1,1,Full,Full,1,1,4504020,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_conspicuum_JCM_14738,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_conspicuum,N/A,JCM_14738,ASM1073019v1,1,Full,Full,1,1,6237139,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_florentinum_JCM_14740,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_florentinum,N/A,JCM_14740,ASM1073035v1,1,Full,Full,1,1,6219859,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_parmense_JCM_14742,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_parmense,N/A,JCM_14742,ASM1073057v1,1,Full,Full,1,1,5952912,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_heidelbergense_JCM_14842,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_heidelbergense,N/A,JCM_14842,ASM1073074v1,1,Full,Full,1,1,5050576,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_pseudoshottsii_JCM_15466_JCM_15466,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_pseudoshottsii,N/A,JCM_15466,ASM358474v1,1,Full,Full,1,1,6061597,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_lacus_JCM_15657,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_lacus,N/A,JCM_15657,ASM1073153v1,1,Full,Full,1,1,5092988,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_seoulense_JCM_16018,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_seoulense,N/A,JCM_16018,ASM1073159v1,1,Full,Full,1,1,5531300,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_noviomagense_JCM_16367,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_noviomagense,N/A,JCM_16367,ASM1073163v1,1,Full,Full,1,1,4779798,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_paraseoulense_JCM_16952,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_paraseoulense,N/A,JCM_16952,ASM1073165v1,1,Full,Full,1,1,6085955,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_stomatepiae_JCM_17783,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_stomatepiae,N/A,JCM_17783,ASM1073171v1,1,Full,Full,1,1,6210822,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_mantenii_JCM_18113,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_mantenii,N/A,JCM_18113,ASM1073177v1,1,Full,Full,1,1,6185541,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_shigaense_JCM_32072,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_shigaense,N/A,JCM_32072,ASM235631v1,1,Full,Full,1,1,5232660,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_novum_JCM_6391,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_novum,N/A,JCM_6391,ASM1072650v1,1,Full,Full,1,1,4458926,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_ulcerans_JKD8049,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_ulcerans,N/A,JKD8049,ASM2061661v1,1,Full,Full,1,1,5789332,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_heckeshornense_JMUB5695,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_heckeshornense,N/A,JMUB5695,ASM1686154v1,1,Full,Full,1,1,4865109,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_paraintracellulare_M011,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_paraintracellulare,N/A,M011,ASM1675605v1,1,Full,Full,1,1,5357612,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_leprae_MRHRU-235-G,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_leprae,N/A,MRHRU-235-G,ASM325377v1,1,Full,Full,1,1,3187112,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_dioxanotrophicus_PH-06,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_dioxanotrophicus,N/A,PH-06,ASM215783v1,1,Full,Full,1,1,8080416,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_basiliense_901379,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_basiliense,N/A,901379,MB901379,1,Full,Full,1,1,5607630,,K Malone,NCBI_refseq_search_reference_genome_20230518
