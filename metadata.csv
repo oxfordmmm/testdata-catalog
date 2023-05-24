@@ -91,3 +91,17 @@ Mycobacterium_paraintracellulare_M011,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/
 Mycobacterium_leprae_MRHRU-235-G,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_leprae,N/A,MRHRU-235-G,ASM325377v1,1,Full,Full,1,1,3187112,,K Malone,NCBI_refseq_search_reference_genome_20230518
 Mycobacterium_dioxanotrophicus_PH-06,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_dioxanotrophicus,N/A,PH-06,ASM215783v1,1,Full,Full,1,1,8080416,,K Malone,NCBI_refseq_search_reference_genome_20230518
 Mycobacterium_basiliense_901379,Reference,,2023-05-22 14:42:57,,,,,,NTM,N/A,Mycobacterium_basiliense,N/A,901379,MB901379,1,Full,Full,1,1,5607630,,K Malone,NCBI_refseq_search_reference_genome_20230518
+Mycobacterium_abscessus_abscessus_ATCC_19977_e0_r250_2023_05_22_08_44_52_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_abscessus_complex,Mycobacterium_abscessus,abscessus,,,,,,,,,,,
+Mycobacterium_abscessus_bolletii_CIP108541_e0_r250_2023_05_22_09_03_34_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_abscessus_complex,Mycobacterium_abscessus,bolletii,,,,,,,,,,,
+Mycobacterium_avium_avium_DSM44156_e0_r250_2023_05_22_09_22_25_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_avium_complex,Mycobacterium_avium,avium,,,,,,,,,,,
+Mycobacterium_avium_hominissius_OCU889s_P11_4s_e0_r250_2023_05_22_09_39_37_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_avium_complex,Mycobacterium_avium,hominissius,,,,,,,,,,,
+Mycobacterium_avium_paratuberculosis_K10_e0_r250_2023_05_22_09_57_44_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_avium_complex,Mycobacterium_avium,paratuberculosis,,,,,,,,,,,
+Mycobacterium_bovis_AF2122_97_e0_r250_2023_05_22_10_30_41_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,AF2122,,,,,,,,,,,
+Mycobacterium_bovis_BCG_Pasteur_1173P2_e0_r250_2023_05_22_10_46_32_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_bovis,BCG_Pasteur,,,,,,,,,,,
+Mycobacterium_cannetii_CIPT_140010059_e0_r250_2023_05_22_11_02_25_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_cannetii,CIPT,,,,,,,,,,,
+Mycobacterium_fortuitum_fortuitum_JCM_6387_e0_r250_2023_05_22_11_53_03_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_fortuitum_complex,Mycobacterium_fortuitum,fortuitum,,,,,,,,,,,
+Mycobacterium_kansasii_ATCC_12478_e0_r250_2023_05_22_12_16_15_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_kansasii_complex,Mycobacterium_kansasii,,,,,,,,,,,,
+Mycobacterium_malmoense_ATCC_29571_e0_r250_2023_05_22_12_39_25_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,,Mycobacterium_malmoense,,,,,,,,,,,,
+Mycobacterium_orygis_51145_e0_r250_2023_05_22_11_18_42_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_orygis,,,,,,,,,,,,
+Mycobacterium_tuberculosis_H37Rv_e0_r250_2023_05_22_10_14_39_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_tuberculosis_complex,Mycobacterium_tuberculosis,H37Rv,,,,,,,,,,,
+Mycobaterium_chelonae_chelonae_CCUG_47445_e0_r250_2023_05_22_11_34_29_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,,Mycobacterium_chelonae_complex,Mycobaterium_chelonae,chelonae,,,,,,,,,,,
