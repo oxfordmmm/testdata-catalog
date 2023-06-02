@@ -96,6 +96,7 @@ Mycobacterium_mantenii_JCM_18113_e0_r250_2023_05_30_21_11_22_,synthetic,,01/06/2
 Mycobacterium_mantenii_JCM_18113_e0_r150_2023_05_24_22_14_04_,Synthetic,,25/05/2023 10:14,Illumina,,150,0,0,NTM,N/A,Mycobacterium_mantenii,N/A,JCM_18113,,,,,,,,,Bird M,
 Mycobacterium_mantenii_JCM_18113,Reference,,22/05/2023 14:42,,,,,,NTM,N/A,Mycobacterium_mantenii,N/A,JCM_18113,ASM1073177v1,1,Full,Full,1,1,6185541,,Malone K,NCBI_refseq_search_reference_genome_20230518
 Mycobacterium_malmoense_ATCC_29571_e0_r250_2023_05_22_12_39_25_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,NTM,N/A,Mycobacterium_malmoense,N/A,ATCC 29571,,,,,,,,,Bird M,
+Mycobacterium_malmoense_ATCC_29571_e0_r150_2023_06_02_10_45_12_,synthetic,,02/06/2023 09:37,illumina,,150,0,0,NTM,N/A,Mycobacterium_malmoense,N/A,ATCC 29571,,,,,,,,,,
 Mycobacterium_malmoense_ATCC_29571,Reference,,16/05/2023 00:00,,,,,,NTM,N/A,Mycobacterium_malmoense,N/A,ATCC 29571,ASM1964585v1,,Full,Full,1,1,5319859,,Malone K,
 Mycobacterium_lepromatosis_FJ924_e0_r250_2023_05_30_14_28_12_,synthetic,,01/06/2023 14:24,illumina,,250,0,0,NTM,N/A,Mycobacterium_lepromatosis,N/A,FJ924,,,,,,,,,Bird M,
 Mycobacterium_lepromatosis_FJ924_e0_r150_2023_05_24_11_53_02_,Synthetic,,25/05/2023 10:14,Illumina,,150,0,0,NTM,N/A,Mycobacterium_lepromatosis,N/A,FJ924,,,,,,,,,Bird M,
@@ -115,6 +116,7 @@ Mycobacterium_lacus_JCM_15657,Reference,,22/05/2023 14:42,,,,,,NTM,N/A,Mycobacte
 Mycobacterium_kubicae_JCM_13573_e0_r250_2023_05_30_17_35_48_,synthetic,,01/06/2023 14:24,illumina,,250,0,0,NTM,N/A,Mycobacterium_kubicae,N/A,JCM_13573,,,,,,,,,Bird M,
 Mycobacterium_kubicae_JCM_13573_e0_r150_2023_05_24_16_42_12_,Synthetic,,25/05/2023 10:14,Illumina,,150,0,0,NTM,N/A,Mycobacterium_kubicae,N/A,JCM_13573,,,,,,,,,Bird M,
 Mycobacterium_kubicae_JCM_13573,Reference,,22/05/2023 14:42,,,,,,NTM,N/A,Mycobacterium_kubicae,N/A,JCM_13573,ASM1568917v1,1,Full,Full,1,1,6016837,,Malone K,NCBI_refseq_search_20230518
+Mycobacterium_kansasii_ATCC_12478_e0_r150_2023_06_02_10_28_32_,synthetic,,02/06/2023 09:37,illumina,,150,0,0,NTM,Mycobacterium_kansasii_complex,Mycobacterium_kansasii,N/A,ATCC_12478,,,,,,,,,,
 Mycobacterium_kansasii_ATCC_12478_e0_r250_2023_05_22_12_16_15_,Synthetic,,23/05/2023 13:57,Illumina,,250,0,0,NTM,Mycobacterium_kansasii_complex,Mycobacterium_kansasii,N/A,ATCC_12478,,,,,,,,,Bird M,
 Mycobacterium_kansasii_ATCC_12478,Reference,,16/05/2023 00:00,,,,,,NTM,Mycobacterium_kansasii_complex,Mycobacterium_kansasii,N/A,ATCC_12478,ASM15789v2,,Full,Full,1,1,6577228,,Malone K,
 Mycobacterium_intracellulare_FDAARGOS_1564_e0_r250_2023_05_30_16_03_33_,synthetic,,01/06/2023 14:24,illumina,,250,0,0,NTM,N/A,Mycobacterium_intracellulare,N/A,FDAARGOS_1564,,,,,,,,,Bird M,
