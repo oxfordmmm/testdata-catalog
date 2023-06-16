@@ -24,6 +24,8 @@ Description of the samples including:
  - Contig count 	
  - Scaffold count	
  - Sequence length
+ - Data owner
+ - Uploaded by
 
 **samples.csv** 
 List of sample id and files associated to it. 
